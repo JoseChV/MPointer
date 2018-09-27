@@ -1,0 +1,3 @@
+/home/jose/CLionProjects/MPointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jose/CLionProjects/MPointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jose/CLionProjects/MPointer/cmake-build-debug/CMakeFiles/MPointer.dir
