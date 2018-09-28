@@ -5,7 +5,15 @@
 #include "DoubleLinkedList.h"
 int main() {
 
-    //MPointerGC::getInstance()->start();
+    MPointerGC::getInstance();
+    std::thread processThread(MPointerGC::startThread);
+
+
+   /* for (uint i = 0; i <10 ; ++i){
+        std::this_thread::sleep_for(std::chrono::seconds(3));
+        std::cout << i << "-ésima corrida del hilo principal" << std::endl;
+    }*/
+
 
     /*
     MPointer<int> a = MPointer<int>::New();
@@ -30,6 +38,7 @@ int main() {
 
     MPointerGC::getInstance()->list->print();
 */
+
 
 
     DoubleLinkedList* a = new DoubleLinkedList;
@@ -63,6 +72,8 @@ int main() {
     std::cout<<"done"<<std::endl;
 
     a->print();
+
+    processThread.join();
 
     return 0;
 };

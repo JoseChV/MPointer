@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/jose/CLionProjects/MPointer/DoubleLinkedList.cpp
-DoubleLinkedList.h
-/home/jose/CLionProjects/MPointer/DoubleLinkedList.h
-
 /home/jose/CLionProjects/MPointer/DoubleLinkedList.h
 iostream
 -
@@ -31,10 +27,6 @@ stdlib.h
 -
 iostream
 -
-MPointerGC.h
-/home/jose/CLionProjects/MPointer/MPointerGC.h
-
-/home/jose/CLionProjects/MPointer/MPointerGC.cpp
 MPointerGC.h
 /home/jose/CLionProjects/MPointer/MPointerGC.h
 

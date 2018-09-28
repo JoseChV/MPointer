@@ -35,17 +35,11 @@ public:
     void removePointer(int ID) {
         list->deleteNode(ID);
     }
-
-    static void runThread(){
-        std::cout<<"thread"<<std::endl;
-
-    }
-
-    static void thread(){
-        using namespace std::this_thread;
-        using namespace std::chrono;
-        sleep_for(seconds(5));
-        std::cout<<"cicle complete"<<std::endl;
+    static void startThread(){
+        while (true) {
+            std::this_thread::sleep_for(std::chrono::seconds(5));
+            std::cout << "Thread cicle complete" << std::endl;
+        }
 
     }
 

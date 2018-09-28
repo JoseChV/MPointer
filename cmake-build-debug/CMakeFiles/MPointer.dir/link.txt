@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/MPointer.dir/main.cpp.o CMakeFiles/MPointer.dir/MPointerGC.cpp.o CMakeFiles/MPointer.dir/LinkedList.cpp.o CMakeFiles/MPointer.dir/Node.cpp.o CMakeFiles/MPointer.dir/DoubleLinkedList.cpp.o CMakeFiles/MPointer.dir/DoubleNode.cpp.o  -o MPointer 
+/usr/bin/c++  -g   CMakeFiles/MPointer.dir/main.cpp.o CMakeFiles/MPointer.dir/MPointerGC.cpp.o CMakeFiles/MPointer.dir/LinkedList.cpp.o CMakeFiles/MPointer.dir/Node.cpp.o CMakeFiles/MPointer.dir/DoubleLinkedList.cpp.o CMakeFiles/MPointer.dir/DoubleNode.cpp.o  -o MPointer -lpthread 
