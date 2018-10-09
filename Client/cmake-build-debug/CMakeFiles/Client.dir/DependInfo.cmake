@@ -4,6 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/DoubleLinkedList.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/DoubleLinkedList.cpp.o"
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/DoubleNode.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/DoubleNode.cpp.o"
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/LinkedList.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/LinkedList.cpp.o"
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/MPointer.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/MPointer.cpp.o"
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/MPointerGC.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/MPointerGC.cpp.o"
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/MPointer_init.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/MPointer_init.cpp.o"
+  "/cygdrive/c/Users/Ba/CLionProjects/Client/Node.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/Node.cpp.o"
   "/cygdrive/c/Users/Ba/CLionProjects/Client/main.cpp" "/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles/Client.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

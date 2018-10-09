@@ -123,6 +123,195 @@ Client/fast:
 	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/build
 .PHONY : Client/fast
 
+DoubleLinkedList.o: DoubleLinkedList.cpp.o
+
+.PHONY : DoubleLinkedList.o
+
+# target to build an object file
+DoubleLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/DoubleLinkedList.cpp.o
+.PHONY : DoubleLinkedList.cpp.o
+
+DoubleLinkedList.i: DoubleLinkedList.cpp.i
+
+.PHONY : DoubleLinkedList.i
+
+# target to preprocess a source file
+DoubleLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/DoubleLinkedList.cpp.i
+.PHONY : DoubleLinkedList.cpp.i
+
+DoubleLinkedList.s: DoubleLinkedList.cpp.s
+
+.PHONY : DoubleLinkedList.s
+
+# target to generate assembly for a file
+DoubleLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/DoubleLinkedList.cpp.s
+.PHONY : DoubleLinkedList.cpp.s
+
+DoubleNode.o: DoubleNode.cpp.o
+
+.PHONY : DoubleNode.o
+
+# target to build an object file
+DoubleNode.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/DoubleNode.cpp.o
+.PHONY : DoubleNode.cpp.o
+
+DoubleNode.i: DoubleNode.cpp.i
+
+.PHONY : DoubleNode.i
+
+# target to preprocess a source file
+DoubleNode.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/DoubleNode.cpp.i
+.PHONY : DoubleNode.cpp.i
+
+DoubleNode.s: DoubleNode.cpp.s
+
+.PHONY : DoubleNode.s
+
+# target to generate assembly for a file
+DoubleNode.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/DoubleNode.cpp.s
+.PHONY : DoubleNode.cpp.s
+
+LinkedList.o: LinkedList.cpp.o
+
+.PHONY : LinkedList.o
+
+# target to build an object file
+LinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/LinkedList.cpp.o
+.PHONY : LinkedList.cpp.o
+
+LinkedList.i: LinkedList.cpp.i
+
+.PHONY : LinkedList.i
+
+# target to preprocess a source file
+LinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/LinkedList.cpp.i
+.PHONY : LinkedList.cpp.i
+
+LinkedList.s: LinkedList.cpp.s
+
+.PHONY : LinkedList.s
+
+# target to generate assembly for a file
+LinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/LinkedList.cpp.s
+.PHONY : LinkedList.cpp.s
+
+MPointer.o: MPointer.cpp.o
+
+.PHONY : MPointer.o
+
+# target to build an object file
+MPointer.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointer.cpp.o
+.PHONY : MPointer.cpp.o
+
+MPointer.i: MPointer.cpp.i
+
+.PHONY : MPointer.i
+
+# target to preprocess a source file
+MPointer.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointer.cpp.i
+.PHONY : MPointer.cpp.i
+
+MPointer.s: MPointer.cpp.s
+
+.PHONY : MPointer.s
+
+# target to generate assembly for a file
+MPointer.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointer.cpp.s
+.PHONY : MPointer.cpp.s
+
+MPointerGC.o: MPointerGC.cpp.o
+
+.PHONY : MPointerGC.o
+
+# target to build an object file
+MPointerGC.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointerGC.cpp.o
+.PHONY : MPointerGC.cpp.o
+
+MPointerGC.i: MPointerGC.cpp.i
+
+.PHONY : MPointerGC.i
+
+# target to preprocess a source file
+MPointerGC.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointerGC.cpp.i
+.PHONY : MPointerGC.cpp.i
+
+MPointerGC.s: MPointerGC.cpp.s
+
+.PHONY : MPointerGC.s
+
+# target to generate assembly for a file
+MPointerGC.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointerGC.cpp.s
+.PHONY : MPointerGC.cpp.s
+
+MPointer_init.o: MPointer_init.cpp.o
+
+.PHONY : MPointer_init.o
+
+# target to build an object file
+MPointer_init.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointer_init.cpp.o
+.PHONY : MPointer_init.cpp.o
+
+MPointer_init.i: MPointer_init.cpp.i
+
+.PHONY : MPointer_init.i
+
+# target to preprocess a source file
+MPointer_init.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointer_init.cpp.i
+.PHONY : MPointer_init.cpp.i
+
+MPointer_init.s: MPointer_init.cpp.s
+
+.PHONY : MPointer_init.s
+
+# target to generate assembly for a file
+MPointer_init.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/MPointer_init.cpp.s
+.PHONY : MPointer_init.cpp.s
+
+Node.o: Node.cpp.o
+
+.PHONY : Node.o
+
+# target to build an object file
+Node.cpp.o:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/Node.cpp.o
+.PHONY : Node.cpp.o
+
+Node.i: Node.cpp.i
+
+.PHONY : Node.i
+
+# target to preprocess a source file
+Node.cpp.i:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/Node.cpp.i
+.PHONY : Node.cpp.i
+
+Node.s: Node.cpp.s
+
+.PHONY : Node.s
+
+# target to generate assembly for a file
+Node.cpp.s:
+	$(MAKE) -f CMakeFiles/Client.dir/build.make CMakeFiles/Client.dir/Node.cpp.s
+.PHONY : Node.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +348,27 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Client"
 	@echo "... edit_cache"
+	@echo "... DoubleLinkedList.o"
+	@echo "... DoubleLinkedList.i"
+	@echo "... DoubleLinkedList.s"
+	@echo "... DoubleNode.o"
+	@echo "... DoubleNode.i"
+	@echo "... DoubleNode.s"
+	@echo "... LinkedList.o"
+	@echo "... LinkedList.i"
+	@echo "... LinkedList.s"
+	@echo "... MPointer.o"
+	@echo "... MPointer.i"
+	@echo "... MPointer.s"
+	@echo "... MPointerGC.o"
+	@echo "... MPointerGC.i"
+	@echo "... MPointerGC.s"
+	@echo "... MPointer_init.o"
+	@echo "... MPointer_init.i"
+	@echo "... MPointer_init.s"
+	@echo "... Node.o"
+	@echo "... Node.i"
+	@echo "... Node.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

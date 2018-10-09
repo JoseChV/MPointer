@@ -80,6 +80,48 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/DoubleLinkedList.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/DoubleLinkedList.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/DoubleNode.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/DoubleNode.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/LinkedList.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/LinkedList.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/MPointer.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/MPointer.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/MPointerGC.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/MPointerGC.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/MPointer_init.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/MPointer_init.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/Node.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/Node.h">
+			<Option target="Client"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Ba/CLionProjects/Client/main.cpp">
 			<Option target="Client"/>
 		</Unit>

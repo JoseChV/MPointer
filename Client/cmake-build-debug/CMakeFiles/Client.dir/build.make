@@ -70,17 +70,122 @@ CMakeFiles/Client.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/main.cpp.s"
 	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/main.cpp -o CMakeFiles/Client.dir/main.cpp.s
 
+CMakeFiles/Client.dir/MPointer_init.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/MPointer_init.cpp.o: ../MPointer_init.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Client.dir/MPointer_init.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/MPointer_init.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/MPointer_init.cpp
+
+CMakeFiles/Client.dir/MPointer_init.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/MPointer_init.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/MPointer_init.cpp > CMakeFiles/Client.dir/MPointer_init.cpp.i
+
+CMakeFiles/Client.dir/MPointer_init.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/MPointer_init.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/MPointer_init.cpp -o CMakeFiles/Client.dir/MPointer_init.cpp.s
+
+CMakeFiles/Client.dir/DoubleNode.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/DoubleNode.cpp.o: ../DoubleNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Client.dir/DoubleNode.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/DoubleNode.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/DoubleNode.cpp
+
+CMakeFiles/Client.dir/DoubleNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/DoubleNode.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/DoubleNode.cpp > CMakeFiles/Client.dir/DoubleNode.cpp.i
+
+CMakeFiles/Client.dir/DoubleNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/DoubleNode.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/DoubleNode.cpp -o CMakeFiles/Client.dir/DoubleNode.cpp.s
+
+CMakeFiles/Client.dir/DoubleLinkedList.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/DoubleLinkedList.cpp.o: ../DoubleLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Client.dir/DoubleLinkedList.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/DoubleLinkedList.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/DoubleLinkedList.cpp
+
+CMakeFiles/Client.dir/DoubleLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/DoubleLinkedList.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/DoubleLinkedList.cpp > CMakeFiles/Client.dir/DoubleLinkedList.cpp.i
+
+CMakeFiles/Client.dir/DoubleLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/DoubleLinkedList.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/DoubleLinkedList.cpp -o CMakeFiles/Client.dir/DoubleLinkedList.cpp.s
+
+CMakeFiles/Client.dir/MPointer.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/MPointer.cpp.o: ../MPointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Client.dir/MPointer.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/MPointer.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/MPointer.cpp
+
+CMakeFiles/Client.dir/MPointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/MPointer.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/MPointer.cpp > CMakeFiles/Client.dir/MPointer.cpp.i
+
+CMakeFiles/Client.dir/MPointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/MPointer.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/MPointer.cpp -o CMakeFiles/Client.dir/MPointer.cpp.s
+
+CMakeFiles/Client.dir/MPointerGC.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/MPointerGC.cpp.o: ../MPointerGC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Client.dir/MPointerGC.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/MPointerGC.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/MPointerGC.cpp
+
+CMakeFiles/Client.dir/MPointerGC.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/MPointerGC.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/MPointerGC.cpp > CMakeFiles/Client.dir/MPointerGC.cpp.i
+
+CMakeFiles/Client.dir/MPointerGC.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/MPointerGC.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/MPointerGC.cpp -o CMakeFiles/Client.dir/MPointerGC.cpp.s
+
+CMakeFiles/Client.dir/Node.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/Node.cpp.o: ../Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Client.dir/Node.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/Node.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/Node.cpp
+
+CMakeFiles/Client.dir/Node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/Node.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/Node.cpp > CMakeFiles/Client.dir/Node.cpp.i
+
+CMakeFiles/Client.dir/Node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/Node.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/Node.cpp -o CMakeFiles/Client.dir/Node.cpp.s
+
+CMakeFiles/Client.dir/LinkedList.cpp.o: CMakeFiles/Client.dir/flags.make
+CMakeFiles/Client.dir/LinkedList.cpp.o: ../LinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Client.dir/LinkedList.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Client.dir/LinkedList.cpp.o -c /cygdrive/c/Users/Ba/CLionProjects/Client/LinkedList.cpp
+
+CMakeFiles/Client.dir/LinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Client.dir/LinkedList.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Ba/CLionProjects/Client/LinkedList.cpp > CMakeFiles/Client.dir/LinkedList.cpp.i
+
+CMakeFiles/Client.dir/LinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Client.dir/LinkedList.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Ba/CLionProjects/Client/LinkedList.cpp -o CMakeFiles/Client.dir/LinkedList.cpp.s
+
 # Object files for target Client
 Client_OBJECTS = \
-"CMakeFiles/Client.dir/main.cpp.o"
+"CMakeFiles/Client.dir/main.cpp.o" \
+"CMakeFiles/Client.dir/MPointer_init.cpp.o" \
+"CMakeFiles/Client.dir/DoubleNode.cpp.o" \
+"CMakeFiles/Client.dir/DoubleLinkedList.cpp.o" \
+"CMakeFiles/Client.dir/MPointer.cpp.o" \
+"CMakeFiles/Client.dir/MPointerGC.cpp.o" \
+"CMakeFiles/Client.dir/Node.cpp.o" \
+"CMakeFiles/Client.dir/LinkedList.cpp.o"
 
 # External object files for target Client
 Client_EXTERNAL_OBJECTS =
 
 Client.exe: CMakeFiles/Client.dir/main.cpp.o
+Client.exe: CMakeFiles/Client.dir/MPointer_init.cpp.o
+Client.exe: CMakeFiles/Client.dir/DoubleNode.cpp.o
+Client.exe: CMakeFiles/Client.dir/DoubleLinkedList.cpp.o
+Client.exe: CMakeFiles/Client.dir/MPointer.cpp.o
+Client.exe: CMakeFiles/Client.dir/MPointerGC.cpp.o
+Client.exe: CMakeFiles/Client.dir/Node.cpp.o
+Client.exe: CMakeFiles/Client.dir/LinkedList.cpp.o
 Client.exe: CMakeFiles/Client.dir/build.make
 Client.exe: CMakeFiles/Client.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Client.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Ba/CLionProjects/Client/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Client.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Client.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
