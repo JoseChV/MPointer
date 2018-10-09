@@ -194,7 +194,7 @@ int main(int argc, char const *argv[])
 
         }
         //Envia la memoria restante al cliente
-        else
+        else if (code == 4)
         {
             Value& node = JSON["memoria"];
             node.SetInt(totalMemory);
@@ -204,6 +204,11 @@ int main(int argc, char const *argv[])
             JSON.Accept(writer);
 
             send(new_socket, newJson.GetString(), strlen(buffer), 0);
+        }
+            //Decision para cerrar la conexion
+        else{
+            free(memory);
+            return 0;
         }
 
 
