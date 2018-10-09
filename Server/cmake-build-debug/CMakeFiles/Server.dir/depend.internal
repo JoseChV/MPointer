@@ -3,3 +3,28 @@
 
 CMakeFiles/Server.dir/main.cpp.o
  /cygdrive/c/Users/Ba/CLionProjects/Server/main.cpp
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/allocators.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/document.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/encodedstream.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/encodings.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/error/error.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/biginteger.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/diyfp.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/dtoa.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/ieee754.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/itoa.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/meta.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/pow10.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/stack.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/strfunc.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/strtod.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/internal/swap.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/memorystream.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/msinttypes/inttypes.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/msinttypes/stdint.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/prettywriter.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/rapidjson.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/reader.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/stream.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/stringbuffer.h
+ /cygdrive/c/Users/Ba/CLionProjects/Server/rapidjson/writer.h
