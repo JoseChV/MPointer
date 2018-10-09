@@ -9,39 +9,48 @@ int main() {
     std::thread processThread(MPointerGC::startThread);
 
 
-   /* for (uint i = 0; i <10 ; ++i){
-        std::this_thread::sleep_for(std::chrono::seconds(3));
+    /*for (uint i = 0; i <10 ; ++i){
+        std::this_thread::sleep_for(std::chrono::seconds(2));
         std::cout << i << "-ésima corrida del hilo principal" << std::endl;
     }*/
 
 
-    /*
-    MPointer<int> a = MPointer<int>::New();
-    MPointer<int> b = MPointer<int>::New();
-    MPointer<int> c = MPointer<int>::New();
 
-    a=51;
-    b=41;
-    c=55;
+    MPointer<int> ptrA = MPointer<int>::New();
+    MPointer<int> ptrB = MPointer<int>::New();
+    MPointer<int> ptrC = MPointer<int>::New();
+    MPointer<int> ptrD = MPointer<int>::New();
+
+    ptrA=51;
+    *ptrB=41;
+    ptrC=55;
+    ptrD = &ptrC;
+
+    std::cout<<"IDs"<<std::endl;
+    std::cout<<ptrA.getID()<<std::endl;
+    std::cout<<ptrB.getID()<<std::endl;
+    std::cout<<ptrC.getID()<<std::endl;
+
+    ptrC = ptrA;
+
+    std::cout<<ptrC.getID()<<std::endl;
+    std::cout<<ptrD.getID()<<std::endl;
 
 
-    std::cout<<a.getID()<<std::endl;
-    std::cout<<b.getID()<<std::endl;
+    std::cout<<"Valores"<<std::endl;
 
-    c = a;
+    std::cout<<&ptrA<<std::endl;
+    std::cout<<&ptrB<<std::endl;
+    std::cout<<&ptrC<<std::endl;
+    std::cout<<&ptrD<<std::endl;
 
-    std::cout<<c.getID()<<std::endl;
-
-    a= 5;
-    std::cout<<&a<<std::endl;
-    std::cout<<&c<<std::endl;
-
+    /*std::cout<<"Direcciones"<<std::endl;
     MPointerGC::getInstance()->list->print();
 */
 
 
 
-    DoubleLinkedList* a = new DoubleLinkedList;
+    /*DoubleLinkedList* a = new DoubleLinkedList;
     a->insert(1);
     a->insert(67);
     a->insert(14);
@@ -67,12 +76,14 @@ int main() {
     a->print();
 
 
-    std::cout<<"quick sorting"<<std::endl;
+    std::cout<<"sorting"<<std::endl;
     a->quickSort();
+    a->insertionSort();
+    a->bubbleSort();
     std::cout<<"done"<<std::endl;
 
     a->print();
-
+    */
     processThread.join();
 
     return 0;
