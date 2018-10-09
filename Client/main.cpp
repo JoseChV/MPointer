@@ -87,6 +87,7 @@ int main() {
     cout << "3: Mostrar todos los valores de los MPointer almacenados en el servidor" << endl;
     cout << "4: Ver memoria restante" << endl;
     cout << "5: Ver los pointer almacenados" << endl;
+    cout << "6: Cerrar conexion" << endl;
     cin >> decision;
 
     //Crea un nuevo pointer y almacena sus datos
@@ -232,7 +233,17 @@ int main() {
         for (int i = 0; i < 5; i++) {
             cout << "Valor del pointer con el ID: " << i << " es " << *list[i] << endl;
         }
+        //Decision para cerrar la conexion
+    }else if (decision == 6){
+        const char *json = "{\"code\": 4 ,\n"
+                           "    \"valores\": \"nada\",\n"
+                           "    \"id\": 0,\n"
+                           "    \"memoria\": 0,\n"
+                           "    \"valor\": 0}";
 
+        send(sock, json, strlen(json), 0);
+        printf("Se cerrará la conexion\n");
+        return 0;
     }
 
     main();
